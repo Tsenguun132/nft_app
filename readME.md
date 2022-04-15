@@ -17,7 +17,7 @@ Clone project and run expo start or npm start on terminal and run simulator.
 
 ### Technology and Frameworks used
 
-[React Native](https://reactnative.dev)
+[React Native](https://reactnative.dev)\
 [React Navigation](https://reactnavigation.org)
 
 
