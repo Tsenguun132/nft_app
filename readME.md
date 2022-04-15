@@ -14,3 +14,9 @@ Assets and data retrieved from Dribble
 ## How to run
 
 Clone project and expo start on terminal and run simulator.
+
+### Technology and Frameworks used
+
+[React Native](https://reactnative.dev)
+[React Navigation](https://reactnavigation.org)
+
