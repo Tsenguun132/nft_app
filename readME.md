@@ -8,3 +8,6 @@ fundamentals of react and, states and props.
 Assets and data retrieved from Dribble
 
 
+https://github.com/Tsenguun132/nft_app/blob/master/nft_app_screenshot.png
+
+![App screenshot](https://github.com/Tsenguun132/nft_app/blob/master/nft_app_screenshot.png)
