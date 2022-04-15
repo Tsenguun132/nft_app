@@ -13,7 +13,7 @@ Assets and data retrieved from Dribble
 
 ## How to run
 
-Clone project and expo start on terminal and run simulator.
+Clone project and run expo start or npm start on terminal and run simulator.
 
 ### Technology and Frameworks used
 
